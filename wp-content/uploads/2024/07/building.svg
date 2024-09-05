@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="building">
+<path id="Vector" d="M15.6246 27.5005H5.09964C3.64964 27.5005 2.46214 26.338 2.46214 24.913V6.36298C2.46214 3.08798 4.89964 1.60048 7.88714 3.06298L13.4371 5.78798C14.6371 6.37548 15.6246 7.93798 15.6246 9.26298V27.5005Z" stroke="#292D32" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M27.4621 18.8256V23.5506C27.4621 26.2506 26.2121 27.5006 23.5121 27.5006H15.6246V13.0256L16.2121 13.1506L21.8371 14.4131L24.3746 14.9756C26.0246 15.3381 27.3746 16.1881 27.4496 18.5881C27.4621 18.6631 27.4621 18.7381 27.4621 18.8256Z" stroke="#292D32" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" opacity="0.6" d="M6.87463 11.2504H11.2121" stroke="#EC1C24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_4" opacity="0.6" d="M6.87463 16.2504H11.2121" stroke="#EC1C24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_5" d="M21.8372 14.4129V18.4379C21.8372 19.9879 20.5747 21.2504 19.0247 21.2504C17.4747 21.2504 16.2122 19.9879 16.2122 18.4379V13.1504L21.8372 14.4129Z" stroke="#292D32" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_6" d="M27.4497 18.5879C27.3747 20.0629 26.1497 21.2504 24.6497 21.2504C23.0997 21.2504 21.8372 19.9879 21.8372 18.4379V14.4129L24.3747 14.9754C26.0247 15.3379 27.3747 16.1879 27.4497 18.5879Z" stroke="#292D32" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
